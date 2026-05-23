@@ -1,18 +1,18 @@
-<div style="display:flex; justify-content:center; align-items:center; padding:28px 0;">
-  <div style="border-radius:14px; padding:4px; background: linear-gradient(90deg,#FF7A18,#AF002D,#319197);">
-    <div style="background:#0b1220; padding:22px; border-radius:10px; color:white; text-align:center; min-width:320px; max-width:900px;">
-      <h1 style="margin:0; font-family: 'Source Serif 4', serif; color:#16a34a;">AI Engineer</h1>
-      <p style="margin:10px 0 0 0;">
-        <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge" />
-        <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge" />
-        <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge" />
-        <img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" />
+<div align="center">
+  <div style="border-radius:16px; padding:5px; background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #ffcc00, #ff00cc); background-size: 300% 300%; animation: gradient 5s ease infinite;">
+    <div style="background:#0a0a0a; padding:26px; border-radius:11px; color:white; text-align:center; min-width:340px; max-width:920px;">
+      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #00f260, #0575e6, #00f260); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em;">🚀 AI Engineer 🚀</h1>
+      <p style="margin:14px 0 0 0;">
+        <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
+        <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+        <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge&logo=pinecone&logoColor=white" />
+        <img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
       </p>
     </div>
   </div>
 </div>
 
-# AITesterBlueprint
+<h1 align="center">AITesterBlueprint</h1>
 
 This repository contains notes, visual explainers, and sample workflows focused on modern AI engineering topics.
 
