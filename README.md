@@ -1,11 +1,7 @@
 <div align="center">
   <div style="border-radius:20px; padding:6px; background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000); background-size: 400% 400%;">
     <div style="background:#0d1117; padding:30px; border-radius:14px; color:white; text-align:center; min-width:360px; max-width:950px;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:16px; margin-bottom:10px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="AI Bot" width="80" height="80" style="filter: drop-shadow(0 0 10px #228B22);" />
-        <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#006400; font-size: 2.8em; border: 3px solid #228B22; border-radius: 14px; padding: 14px 28px; display: inline-block; box-shadow: 0 0 15px rgba(34,139,34,0.4);"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="AI Bot" width="45" height="45" style="vertical-align:middle; filter: drop-shadow(0 0 6px #228B22);" /> AI Engineer <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="AI Bot" width="45" height="45" style="vertical-align:middle; filter: drop-shadow(0 0 6px #228B22);" /></h1>
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="AI Bot" width="80" height="80" style="filter: drop-shadow(0 0 10px #228B22);" />
-      </div>
+      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#006400; font-size: 2.8em; border: 3px solid #228B22; border-radius: 14px; padding: 14px 28px; display: inline-block; box-shadow: 0 0 15px rgba(34,139,34,0.4);">AI Engineer</h1>
       <p style="margin:16px 0 0 0;">
         <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
         <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
