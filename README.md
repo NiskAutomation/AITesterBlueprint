@@ -1,7 +1,7 @@
 <div align="center">
   <div style="border-radius:16px; padding:5px; background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #ffcc00, #ff00cc); background-size: 300% 300%; animation: gradient 5s ease infinite;">
     <div style="background:#0a0a0a; padding:26px; border-radius:11px; color:white; text-align:center; min-width:340px; max-width:920px;">
-      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #00f260, #0575e6, #00f260); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em;">🚀 AI Engineer 🚀</h1>
+      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #006400, #228B22, #006400); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em; border: 3px solid #228B22; border-radius: 12px; padding: 12px 24px; display: inline-block;">🚀 AI Engineer 🚀</h1>
       <p style="margin:14px 0 0 0;">
         <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
         <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
