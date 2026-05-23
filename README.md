@@ -1,7 +1,7 @@
 <div style="display:flex; justify-content:center; align-items:center; padding:28px 0;">
   <div style="border-radius:14px; padding:4px; background: linear-gradient(90deg,#FF7A18,#AF002D,#319197);">
     <div style="background:#0b1220; padding:22px; border-radius:10px; color:white; text-align:center; min-width:320px; max-width:900px;">
-      <h1 style="margin:0; font-family: 'Source Serif 4', serif;">AI Engineer</h1>
+      <h1 style="margin:0; font-family: 'Source Serif 4', serif; color:#16a34a;">AI Engineer</h1>
       <p style="margin:10px 0 0 0;">
         <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge" />
         <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge" />
