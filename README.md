@@ -1,21 +1,42 @@
+<div align="center">
+  <h1>AI Engineer</h1>
+  <p>
+    <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge" />
+    <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge" />
+    <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge" />
+    <img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" />
+  </p>
+</div>
+
 # AITesterBlueprint
 
-This repository contains notes and visual explainers for LLM concepts.
+This repository contains notes, visual explainers, and sample workflows focused on modern AI engineering topics.
 
-## Changes in this commit
-- Added `README.md` with basic repo info.
-- Updated `Chapter_01_LLM_Basics/attention_is_all_you_need.html` to include a top banner:
-  - Banner title: **AI Engineer**
-  - Banner subtitle: **LLM · RAG · N8N**
+## Highlights
 
-## How to view
-Open `Chapter_01_LLM_Basics/attention_is_all_you_need.html` in your browser.
+- **LLM**: Large language model concepts, visual explainers, and walkthroughs.
+- **GeanAI**: Explorations of generative AI techniques and prompts (label preserved as requested).
+- **RAG**: Retrieval-Augmented Generation patterns, examples, and reference connectors.
+- **n8n**: Automation workflows and integrations using n8n for orchestration.
 
-## Tips
-If you want to preview locally, run a simple HTTP server in the repo root, for example:
+## Files of interest
+
+- `Chapter_01_LLM_Basics/attention_is_all_you_need.html` — Visual explainer of the Transformer architecture.
+- `Chapter_01_LLM_Basics/attention_interactive.html` — Interactive attention demo.
+
+## How to preview locally
+Run a simple HTTP server from the repository root and open the HTML files in your browser:
 
 ```powershell
 # Windows PowerShell
 python -m http.server 8000
-# Open http://localhost:8000/Chapter_01_LLM_Basics/attention_is_all_you_need.html
+# then open http://localhost:8000/Chapter_01_LLM_Basics/attention_is_all_you_need.html
 ```
+
+## Notes
+- Banner and colorful badges added to introduce repo focus (`AI Engineer` + topics requested).
+- If you'd like different colors, logos, or wording (for example change `GeanAI` → `GenAI`), tell me and I will update.
+
+---
+
+Created/updated on May 23, 2026.
