@@ -1,11 +1,15 @@
-<div style="background: linear-gradient(90deg,#FF7A18,#AF002D,#319197); border: 4px solid rgba(0,0,0,0.12); border-radius: 12px; padding: 20px; text-align: center; color: white; box-shadow: 0 8px 30px rgba(0,0,0,0.18);">
-  <h1 style="margin:0;font-family: 'Source Serif 4', serif;">AI Engineer</h1>
-  <p style="margin:10px 0 0 0;">
-    <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge" />
-    <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge" />
-    <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge" />
-    <img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" />
-  </p>
+<div style="display:flex; justify-content:center; align-items:center; padding:28px 0;">
+  <div style="border-radius:14px; padding:4px; background: linear-gradient(90deg,#FF7A18,#AF002D,#319197);">
+    <div style="background:#0b1220; padding:22px; border-radius:10px; color:white; text-align:center; min-width:320px; max-width:900px;">
+      <h1 style="margin:0; font-family: 'Source Serif 4', serif;">AI Engineer</h1>
+      <p style="margin:10px 0 0 0;">
+        <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge" />
+        <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge" />
+        <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge" />
+        <img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" />
+      </p>
+    </div>
+  </div>
 </div>
 
 # AITesterBlueprint
