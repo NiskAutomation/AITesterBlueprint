@@ -1,8 +1,9 @@
 <div align="center">
-  <div style="border-radius:16px; padding:5px; background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #ffcc00, #ff00cc); background-size: 300% 300%; animation: gradient 5s ease infinite;">
-    <div style="background:#0a0a0a; padding:26px; border-radius:11px; color:white; text-align:center; min-width:340px; max-width:920px;">
-      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #006400, #228B22, #006400); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em; border: 3px solid #228B22; border-radius: 12px; padding: 12px 24px; display: inline-block;">🚀 AI Engineer 🚀</h1>
-      <p style="margin:14px 0 0 0;">
+  <div style="border-radius:20px; padding:6px; background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000); background-size: 400% 400%;">
+    <div style="background:#0d1117; padding:30px; border-radius:14px; color:white; text-align:center; min-width:360px; max-width:950px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="AI Bot" width="80" height="80" style="margin-bottom:10px; filter: drop-shadow(0 0 10px #00ff88);" />
+      <h1 style="margin:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #00ff88, #00cc6a, #00994d, #00ff88); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.8em; border: 3px solid #00ff88; border-radius: 14px; padding: 14px 28px; display: inline-block; box-shadow: 0 0 15px rgba(0,255,136,0.3);">🚀 AI Engineer 🚀</h1>
+      <p style="margin:16px 0 0 0;">
         <img alt="LLM" src="https://img.shields.io/badge/LLM-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
         <img alt="GeanAI" src="https://img.shields.io/badge/GeanAI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
         <img alt="RAG" src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge&logo=pinecone&logoColor=white" />
