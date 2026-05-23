@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<h1 align="center">AITesterBlueprint</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(90deg, #FF7A18, #AF002D, #319197, #FF7A18); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.2em;">AITesterBlueprint</h1>
 
 This repository contains notes, visual explainers, and sample workflows focused on modern AI engineering topics.
 
