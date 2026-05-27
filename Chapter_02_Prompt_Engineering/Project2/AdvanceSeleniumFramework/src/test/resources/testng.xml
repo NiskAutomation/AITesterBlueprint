@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Salesforce Login Automation Test Suite" parallel="false" thread-count="1">
+    <test name="Login Valid Test Cases" preserve-order="true">
+        <classes>
+            <class name="com.salesforce.tests.LoginValidTestCases">
+                <methods>
+                    <include name="testLoginWithValidCredentials" />
+                    <include name="testLoginButtonEnabledWithValidCredentials" />
+                    <include name="testClearUsernameField" />
+                    <include name="testRememberMeCheckboxFunctionality" />
+                    <include name="testLoginPageElementsVisibility" />
+                    <include name="testLoginPageTitle" />
+                    <include name="testValidCredentialsEntryWithoutLogin" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Login Invalid Test Cases" preserve-order="true">
+        <classes>
+            <class name="com.salesforce.tests.LoginInvalidTestCases">
+                <methods>
+                    <include name="testLoginWithEmptyUsername" />
+                    <include name="testLoginWithEmptyPassword" />
+                    <include name="testLoginWithBothFieldsEmpty" />
+                    <include name="testLoginWithInvalidUsername" />
+                    <include name="testLoginWithInvalidPassword" />
+                    <include name="testLoginWithSpecialCharactersInUsername" />
+                    <include name="testMultipleInvalidLoginAttempts" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

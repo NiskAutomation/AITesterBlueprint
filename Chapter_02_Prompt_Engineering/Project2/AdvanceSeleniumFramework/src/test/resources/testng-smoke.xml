@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Salesforce Login Smoke Test Suite" parallel="false" thread-count="1">
+    <test name="Smoke Tests - Critical Scenarios" preserve-order="true">
+        <classes>
+            <class name="com.salesforce.tests.LoginValidTestCases">
+                <methods>
+                    <include name="testLoginWithValidCredentials" />
+                    <include name="testLoginPageElementsVisibility" />
+                </methods>
+            </class>
+            <class name="com.salesforce.tests.LoginInvalidTestCases">
+                <methods>
+                    <include name="testLoginWithEmptyUsername" />
+                    <include name="testLoginWithInvalidPassword" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
