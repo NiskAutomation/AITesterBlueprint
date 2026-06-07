@@ -39,7 +39,13 @@ This project follows the **B.L.A.S.T** methodology:
 
 **Production URL**: https://nisk-jira-buddy.vercel.app
 
+**GitHub Repository**: https://github.com/NiskAutomation/AITesterBlueprint
+
 The app is deployed on Vercel with serverless API functions and static frontend.
+
+**Latest Commit**: `feat: Complete BLAST Framework Chapter 03 - JIRA to TestPlan & TestCases Generator`
+- 43 files changed, 5747 insertions(+)
+- All BLAST phases implemented and deployed
 
 ## Quick Start (Local Development)
 
