@@ -1,0 +1,31 @@
+{
+  "name": "blast-framework-chapter-03",
+  "version": "1.0.0",
+  "description": "BLAST Framework - Chapter 03: JIRA to TestPlan & TestCases Generator",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "test": "cd server && npm test && cd ../client && npm test",
+    "verify:jira": "cd tools && python verify_jira.py"
+  },
+  "keywords": [
+    "jira",
+    "test-plan",
+    "test-cases",
+    "qa",
+    "automation",
+    "blast-framework",
+    "react",
+    "express"
+  ],
+  "author": "AITesterBlueprint",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
